@@ -42,7 +42,7 @@
 
         <provider
             android:name=".database.LocationProvider"
-            android:authorities=".database.LocationProvider"
+            android:authorities="com.example.james.runningman.database"
             android:exported="true"
             android:multiprocess="true" />
 
