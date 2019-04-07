@@ -8,7 +8,7 @@
  *  University of Nottingham (C)
  */
 
-package com.example.james.g53mdpcw2;
+package com.example.james.runningman;
 
 import android.graphics.Bitmap;
 import android.support.v4.app.FragmentActivity;
@@ -18,7 +18,6 @@ import android.util.Log;
 import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
-import com.google.android.gms.maps.MapView;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;

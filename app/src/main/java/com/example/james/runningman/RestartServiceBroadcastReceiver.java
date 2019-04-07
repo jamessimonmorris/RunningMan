@@ -8,11 +8,9 @@
  *  University of Nottingham (C)
  */
 
-package com.example.james.g53mdpcw2;
+package com.example.james.runningman;
 
-import android.app.Service;
 import android.content.BroadcastReceiver;
-import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.example.james.g53mdpcw2;
+package com.example.james.runningman;
 
 import org.junit.Test;
 

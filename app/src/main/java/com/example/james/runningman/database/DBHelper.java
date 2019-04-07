@@ -8,7 +8,7 @@
  *  University of Nottingham (C)
  */
 
-package com.example.james.g53mdpcw2.database;
+package com.example.james.runningman.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

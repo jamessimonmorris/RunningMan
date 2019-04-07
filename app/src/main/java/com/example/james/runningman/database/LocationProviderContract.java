@@ -8,13 +8,13 @@
  *  University of Nottingham (C)
  */
 
-package com.example.james.g53mdpcw2.database;
+package com.example.james.runningman.database;
 
 import android.net.Uri;
 
 public class LocationProviderContract {
 
-    public static final String AUTHORITY = "com.example.james.g53mdpcw2.database.LocationProvider";
+    public static final String AUTHORITY = "com.example.james.runningman.database.LocationProvider";
     public static final String TABLE_NAME = "locations";
 
     public static final Uri LOCATIONS_URI = Uri.parse("content://" + AUTHORITY + "/" + TABLE_NAME);

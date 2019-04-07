@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.james.g53mdpcw2">
+    package="com.example.james.runningman">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -42,7 +42,7 @@
 
         <provider
             android:name=".database.LocationProvider"
-            android:authorities="com.example.james.g53mdpcw2.database.LocationProvider"
+            android:authorities=".database.LocationProvider"
             android:exported="true"
             android:multiprocess="true" />
 

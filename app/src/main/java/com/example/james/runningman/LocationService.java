@@ -8,7 +8,7 @@
  *  University of Nottingham (C)
  */
 
-package com.example.james.g53mdpcw2;
+package com.example.james.runningman;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -28,7 +28,7 @@ import android.os.IBinder;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
-import com.example.james.g53mdpcw2.database.LocationProviderContract;
+import com.example.james.runningman.database.LocationProviderContract;
 
 public class LocationService extends Service {
 

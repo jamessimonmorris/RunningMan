@@ -8,7 +8,7 @@
  *  University of Nottingham (C)
  */
 
-package com.example.james.g53mdpcw2;
+package com.example.james.runningman;
 
 import android.Manifest;
 import android.content.ComponentName;
@@ -35,7 +35,7 @@ import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.james.g53mdpcw2.database.LocationProviderContract;
+import com.example.james.runningman.database.LocationProviderContract;
 import com.jjoe64.graphview.GraphView;
 import com.jjoe64.graphview.GridLabelRenderer;
 import com.jjoe64.graphview.Viewport;
